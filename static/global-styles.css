@@ -1,0 +1,18 @@
+
+:root {
+    /* Colors */
+    --yellow: #EEC369;
+    --red: #EC6A61;
+    --green: #54BA64;
+    --gray: #757575;
+    --dark-gray: #464646;
+    --background: #28251F;
+    /* Styles*/
+    --standard-padding: 32px;
+    --max-width: 90%;
+}
+
+body {
+    color: white;
+    background-color: #101010;
+}
